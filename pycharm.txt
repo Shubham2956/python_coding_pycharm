@@ -1,0 +1,1 @@
+in this repository I put all the files which I practiced related to python language in PyCharm application
