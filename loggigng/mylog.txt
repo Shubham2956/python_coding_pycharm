@@ -1,0 +1,341 @@
+CRITICAL:root:critical message
+ERROR:root:error message
+WARNING:root:warning message
+INFO:root:information message
+DEBUG:root:debug message
+CRITICAL
+ERROR
+WARNING
+INFO
+DEBUG
+CRITICAL:critical message
+ERROR:error message
+WARNING:warning message
+INFO:information message
+DEBUG:debug message
+CRITICAL:critical message
+ERROR:error message
+WARNING:warning message
+INFO:information message
+DEBUG:debug message
+2023-11-13 16:49:09,029:CRITICAL:critical message
+2023-11-13 16:49:09,029:ERROR:error message
+2023-11-13 16:49:09,030:WARNING:warning message
+2023-11-13 16:49:09,030:INFO:information message
+2023-11-13 16:49:09,030:DEBUG:debug message
+13/11/2023 :CRITICAL:critical message
+13/11/2023 :ERROR:error message
+13/11/2023 :WARNING:warning message
+13/11/2023 :INFO:information message
+13/11/2023 :DEBUG:debug message
+13/11/2023 05:11:24:CRITICAL:critical message
+13/11/2023 05:11:24:ERROR:error message
+13/11/2023 05:11:24:WARNING:warning message
+13/11/2023 05:11:24:INFO:information message
+13/11/2023 05:11:24:DEBUG:debug message
+13/11/2023 05:11:41 PM:CRITICAL:critical message
+13/11/2023 05:11:41 PM:ERROR:error message
+13/11/2023 05:11:41 PM:WARNING:warning message
+13/11/2023 05:11:41 PM:INFO:information message
+13/11/2023 05:11:41 PM:DEBUG:debug message
+13/11/2023 05:29:41 PM:CRITICAL:critical message
+13/11/2023 05:29:41 PM:ERROR:error message
+13/11/2023 05:29:41 PM:WARNING:warning message
+13/11/2023 05:29:41 PM:INFO:information message
+13/11/2023 05:29:41 PM:DEBUG:debug message
+13/11/2023 05:29:47 PM:INFO:choice processed 1
+13/11/2023 05:29:47 PM:INFO:covid status checking.......
+13/11/2023 05:29:51 PM:INFO:choice processed 2
+13/11/2023 05:29:51 PM:INFO:maleria status checking.........
+13/11/2023 05:29:53 PM:INFO:choice processed 3
+13/11/2023 05:29:53 PM:INFO:cancer status checking..............
+13/11/2023 05:34:02 PM:CRITICAL:critical message
+13/11/2023 05:34:02 PM:ERROR:error message
+13/11/2023 05:34:02 PM:WARNING:warning message
+13/11/2023 05:34:02 PM:INFO:information message
+13/11/2023 05:34:02 PM:DEBUG:debug message
+13/11/2023 05:34:06 PM:INFO:choice processed 34
+13/11/2023 05:34:06 PM:INFO:invalid input . 
+13/11/2023 05:34:13 PM:ERROR:invalid literal for int() with base 10: '44.54'
+Traceback (most recent call last):
+  File "C:\Users\Dell\PycharmProjects\loggigng\logger.py", line 27, in <module>
+    ch = int(input("do you want to continue : y|n"))
+ValueError: invalid literal for int() with base 10: '44.54'
+23/02/2024 05:38:20 PM:CRITICAL:critical message
+23/02/2024 05:38:20 PM:ERROR:error message
+23/02/2024 05:38:20 PM:WARNING:warning message
+23/02/2024 05:38:20 PM:INFO:information message
+23/02/2024 05:38:20 PM:DEBUG:debug message
+23/02/2024 05:38:27 PM:INFO:choice processed 2
+23/02/2024 05:38:27 PM:INFO:maleria status checking.........
+23/02/2024 05:38:32 PM:ERROR:invalid literal for int() with base 10: 'y'
+Traceback (most recent call last):
+  File "C:\Users\Dell\PycharmProjects\loggigng\logger.py", line 27, in <module>
+    ch = int(input("do you want to continue : y|n"))
+ValueError: invalid literal for int() with base 10: 'y'
+23/02/2024 05:38:36 PM:INFO:choice processed 1
+23/02/2024 05:38:36 PM:INFO:covid status checking.......
+23/02/2024 05:38:39 PM:ERROR:invalid literal for int() with base 10: 'no'
+Traceback (most recent call last):
+  File "C:\Users\Dell\PycharmProjects\loggigng\logger.py", line 27, in <module>
+    ch = int(input("do you want to continue : y|n"))
+ValueError: invalid literal for int() with base 10: 'no'
+23/02/2024 05:39:20 PM:CRITICAL:critical message
+23/02/2024 05:39:20 PM:ERROR:error message
+23/02/2024 05:39:20 PM:WARNING:warning message
+23/02/2024 05:39:20 PM:INFO:information message
+23/02/2024 05:39:20 PM:DEBUG:debug message
+23/02/2024 05:39:24 PM:INFO:choice processed 2
+23/02/2024 05:39:24 PM:INFO:maleria status checking.........
+23/02/2024 05:39:57 PM:CRITICAL:critical message
+23/02/2024 05:39:57 PM:ERROR:error message
+23/02/2024 05:39:57 PM:WARNING:warning message
+23/02/2024 05:39:57 PM:INFO:information message
+23/02/2024 05:39:57 PM:DEBUG:debug message
+23/02/2024 05:40:00 PM:INFO:choice processed 2
+23/02/2024 05:40:00 PM:INFO:maleria status checking.........
+23/02/2024 05:41:13 PM:CRITICAL:critical message
+23/02/2024 05:41:13 PM:ERROR:error message
+23/02/2024 05:41:13 PM:WARNING:warning message
+23/02/2024 05:41:13 PM:INFO:information message
+23/02/2024 05:41:13 PM:DEBUG:debug message
+23/02/2024 05:41:17 PM:INFO:choice processed 2
+23/02/2024 05:41:17 PM:INFO:maleria status checking.........
+23/02/2024 05:41:19 PM:INFO:thank you
+23/02/2024 05:41:51 PM:CRITICAL:critical message
+23/02/2024 05:41:51 PM:ERROR:error message
+23/02/2024 05:41:51 PM:WARNING:warning message
+23/02/2024 05:41:51 PM:INFO:information message
+23/02/2024 05:41:51 PM:DEBUG:debug message
+23/02/2024 05:41:53 PM:INFO:choice processed 2
+23/02/2024 05:41:53 PM:INFO:maleria status checking.........
+23/02/2024 05:42:06 PM:CRITICAL:critical message
+23/02/2024 05:42:06 PM:ERROR:error message
+23/02/2024 05:42:06 PM:WARNING:warning message
+23/02/2024 05:42:06 PM:INFO:information message
+23/02/2024 05:42:06 PM:DEBUG:debug message
+23/02/2024 05:42:09 PM:INFO:choice processed 1
+23/02/2024 05:42:09 PM:INFO:covid status checking.......
+23/02/2024 05:42:12 PM:INFO:thank you
+23/02/2024 05:42:15 PM:INFO:choice processed 2
+23/02/2024 05:42:15 PM:INFO:maleria status checking.........
+23/02/2024 05:42:17 PM:INFO:thank you
+23/02/2024 05:47:29 PM:CRITICAL:critical message
+23/02/2024 05:47:29 PM:ERROR:error message
+23/02/2024 05:47:29 PM:WARNING:warning message
+23/02/2024 05:47:29 PM:INFO:information message
+23/02/2024 05:47:29 PM:DEBUG:debug message
+23/02/2024 05:47:32 PM:INFO:choice processed 2
+23/02/2024 05:47:32 PM:INFO:maleria status checking.........
+23/02/2024 05:47:34 PM:INFO:thank you
+23/02/2024 05:47:37 PM:INFO:choice processed 3
+23/02/2024 05:47:37 PM:INFO:cancer status checking..............
+23/02/2024 05:48:33 PM:CRITICAL:critical message
+23/02/2024 05:48:33 PM:ERROR:error message
+23/02/2024 05:48:33 PM:WARNING:warning message
+23/02/2024 05:48:33 PM:INFO:information message
+23/02/2024 05:48:33 PM:DEBUG:debug message
+23/02/2024 05:48:37 PM:INFO:choice processed 3
+23/02/2024 05:48:37 PM:INFO:cancer status checking..............
+23/02/2024 05:48:38 PM:INFO:thank you
+23/02/2024 05:53:52 PM:CRITICAL:critical message
+23/02/2024 05:53:52 PM:ERROR:error message
+23/02/2024 05:53:52 PM:WARNING:warning message
+23/02/2024 05:53:52 PM:INFO:information message
+23/02/2024 05:53:52 PM:DEBUG:debug message
+23/02/2024 05:53:56 PM:INFO:choice processed 5
+23/02/2024 05:53:56 PM:INFO:invalid input . 
+23/02/2024 05:54:06 PM:INFO:thank you
+23/02/2024 05:54:16 PM:INFO:choice processed 1
+23/02/2024 05:54:16 PM:INFO:covid status checking.......
+23/02/2024 05:54:18 PM:INFO:thank you
+23/02/2024 07:01:04 PM:CRITICAL:critical message
+23/02/2024 07:01:04 PM:ERROR:error message
+23/02/2024 07:01:04 PM:WARNING:warning message
+23/02/2024 07:01:04 PM:INFO:information message
+23/02/2024 07:01:04 PM:DEBUG:debug message
+23/02/2024 07:02:18 PM:CRITICAL:critical message
+23/02/2024 07:02:18 PM:ERROR:error message
+23/02/2024 07:02:18 PM:WARNING:warning message
+23/02/2024 07:02:18 PM:INFO:information message
+23/02/2024 07:02:18 PM:DEBUG:debug message
+23/02/2024 07:14:42 PM:CRITICAL:critical message
+23/02/2024 07:14:42 PM:ERROR:error message
+23/02/2024 07:14:42 PM:WARNING:warning message
+23/02/2024 07:14:42 PM:INFO:information message
+23/02/2024 07:14:42 PM:DEBUG:debug message
+23/02/2024 07:14:52 PM:INFO:choice processed 2
+23/02/2024 07:14:52 PM:INFO:maleria status checking.........
+23/02/2024 07:14:54 PM:INFO:choice processed 2
+23/02/2024 07:14:54 PM:INFO:maleria status checking.........
+23/02/2024 07:15:59 PM:CRITICAL:critical message
+23/02/2024 07:15:59 PM:ERROR:error message
+23/02/2024 07:15:59 PM:WARNING:warning message
+23/02/2024 07:15:59 PM:INFO:information message
+23/02/2024 07:15:59 PM:DEBUG:debug message
+23/02/2024 07:16:02 PM:INFO:choice processed 22
+23/02/2024 07:16:02 PM:INFO:invalid input . 
+23/02/2024 07:16:05 PM:ERROR:invalid literal for int() with base 10: '3.4'
+Traceback (most recent call last):
+  File "C:\Users\Dell\PycharmProjects\loggigng\logger.py", line 27, in <module>
+    ch = int(input("do you want to continue : y|n"))
+ValueError: invalid literal for int() with base 10: '3.4'
+23/02/2024 07:16:29 PM:INFO:choice processed 2
+23/02/2024 07:16:29 PM:INFO:maleria status checking.........
+23/02/2024 07:16:33 PM:INFO:choice processed 3
+23/02/2024 07:16:33 PM:INFO:cancer status checking..............
+23/02/2024 07:17:03 PM:INFO:choice processed 3
+23/02/2024 07:17:03 PM:INFO:cancer status checking..............
+23/02/2024 07:17:13 PM:CRITICAL:critical message
+23/02/2024 07:17:13 PM:ERROR:error message
+23/02/2024 07:17:13 PM:WARNING:warning message
+23/02/2024 07:17:13 PM:INFO:information message
+23/02/2024 07:17:13 PM:DEBUG:debug message
+23/02/2024 07:17:18 PM:CRITICAL:critical message
+23/02/2024 07:17:18 PM:ERROR:error message
+23/02/2024 07:17:18 PM:WARNING:warning message
+23/02/2024 07:17:18 PM:INFO:information message
+23/02/2024 07:17:18 PM:DEBUG:debug message
+23/02/2024 07:17:26 PM:CRITICAL:critical message
+23/02/2024 07:17:26 PM:ERROR:error message
+23/02/2024 07:17:26 PM:WARNING:warning message
+23/02/2024 07:17:26 PM:INFO:information message
+23/02/2024 07:17:26 PM:DEBUG:debug message
+23/02/2024 07:17:27 PM:INFO:choice processed 3
+23/02/2024 07:17:27 PM:INFO:cancer status checking..............
+23/02/2024 07:17:40 PM:CRITICAL:critical message
+23/02/2024 07:17:40 PM:ERROR:error message
+23/02/2024 07:17:40 PM:WARNING:warning message
+23/02/2024 07:17:40 PM:INFO:information message
+23/02/2024 07:17:40 PM:DEBUG:debug message
+23/02/2024 07:17:44 PM:INFO:choice processed 2
+23/02/2024 07:17:44 PM:INFO:maleria status checking.........
+23/02/2024 07:18:44 PM:CRITICAL:critical message
+23/02/2024 07:18:44 PM:ERROR:error message
+23/02/2024 07:18:44 PM:WARNING:warning message
+23/02/2024 07:18:44 PM:INFO:information message
+23/02/2024 07:18:44 PM:DEBUG:debug message
+23/02/2024 07:18:47 PM:INFO:choice processed 2
+23/02/2024 07:18:47 PM:INFO:maleria status checking.........
+23/02/2024 07:18:53 PM:INFO:choice processed 5
+23/02/2024 07:18:53 PM:INFO:invalid input . 
+23/02/2024 07:19:42 PM:CRITICAL:critical message
+23/02/2024 07:19:42 PM:ERROR:error message
+23/02/2024 07:19:42 PM:WARNING:warning message
+23/02/2024 07:19:42 PM:INFO:information message
+23/02/2024 07:19:42 PM:DEBUG:debug message
+23/02/2024 07:19:45 PM:INFO:choice processed 4
+23/02/2024 07:19:45 PM:INFO:invalid input . 
+23/02/2024 07:19:48 PM:ERROR:invalid literal for int() with base 10: '4.55'
+Traceback (most recent call last):
+  File "C:\Users\Dell\PycharmProjects\loggigng\logger.py", line 27, in <module>
+    ch =int(input("do you want to continue : y|n"))
+ValueError: invalid literal for int() with base 10: '4.55'
+23/02/2024 07:19:52 PM:INFO:choice processed 3
+23/02/2024 07:19:52 PM:INFO:cancer status checking..............
+23/02/2024 07:19:53 PM:INFO:choice processed 5
+23/02/2024 07:19:53 PM:INFO:invalid input . 
+23/02/2024 07:19:58 PM:ERROR:invalid literal for int() with base 10: 'no'
+Traceback (most recent call last):
+  File "C:\Users\Dell\PycharmProjects\loggigng\logger.py", line 27, in <module>
+    ch =int(input("do you want to continue : y|n"))
+ValueError: invalid literal for int() with base 10: 'no'
+23/02/2024 07:20:09 PM:CRITICAL:critical message
+23/02/2024 07:20:09 PM:ERROR:error message
+23/02/2024 07:20:09 PM:WARNING:warning message
+23/02/2024 07:20:09 PM:INFO:information message
+23/02/2024 07:20:09 PM:DEBUG:debug message
+23/02/2024 07:20:12 PM:INFO:choice processed 3
+23/02/2024 07:20:12 PM:INFO:cancer status checking..............
+23/02/2024 07:20:16 PM:INFO:choice processed 5
+23/02/2024 07:20:16 PM:INFO:invalid input . 
+23/02/2024 07:20:19 PM:ERROR:invalid literal for int() with base 10: '5.555'
+Traceback (most recent call last):
+  File "C:\Users\Dell\PycharmProjects\loggigng\logger.py", line 27, in <module>
+    ch =int(input("do you want to continue : y|n"))
+ValueError: invalid literal for int() with base 10: '5.555'
+23/02/2024 07:27:09 PM:CRITICAL:critical message
+23/02/2024 07:27:09 PM:ERROR:error message
+23/02/2024 07:27:09 PM:WARNING:warning message
+23/02/2024 07:27:09 PM:INFO:information message
+23/02/2024 07:27:09 PM:DEBUG:debug message
+23/02/2024 07:27:19 PM:INFO:choice processed 2
+23/02/2024 07:27:19 PM:INFO:maleria status checking.........
+23/02/2024 07:27:25 PM:INFO:choice processed 44
+23/02/2024 07:27:25 PM:INFO:invalid input . 
+23/02/2024 07:27:30 PM:INFO:choice processed 3
+23/02/2024 07:27:30 PM:INFO:cancer status checking..............
+23/02/2024 07:27:53 PM:CRITICAL:critical message
+23/02/2024 07:27:53 PM:ERROR:error message
+23/02/2024 07:27:53 PM:WARNING:warning message
+23/02/2024 07:27:53 PM:INFO:information message
+23/02/2024 07:27:53 PM:DEBUG:debug message
+23/02/2024 07:27:57 PM:INFO:choice processed 3
+23/02/2024 07:27:57 PM:INFO:cancer status checking..............
+23/02/2024 07:28:14 PM:INFO:choice processed 2
+23/02/2024 07:28:14 PM:INFO:maleria status checking.........
+23/02/2024 07:28:24 PM:INFO:choice processed 5
+23/02/2024 07:28:24 PM:INFO:invalid input . 
+23/02/2024 07:28:27 PM:ERROR:invalid literal for int() with base 10: '5.55'
+Traceback (most recent call last):
+  File "C:\Users\Dell\PycharmProjects\loggigng\logger.py", line 27, in <module>
+    ch =int(input("do you want to continue : y|n"))
+ValueError: invalid literal for int() with base 10: '5.55'
+24/02/2024 01:58:58 PM:root:CRITICAL:critical issue
+24/02/2024 01:58:58 PM:root:ERROR:error issue
+24/02/2024 01:58:58 PM:root:WARNING:warning issue
+24/02/2024 01:58:58 PM:root:INFO:information issue
+24/02/2024 01:58:58 PM:root:DEBUG:debug issue
+24/02/2024 01:59:18 PM:CRITICAL:critical message
+24/02/2024 01:59:18 PM:ERROR:error message
+24/02/2024 01:59:18 PM:WARNING:warning message
+24/02/2024 01:59:18 PM:INFO:information message
+24/02/2024 01:59:18 PM:DEBUG:debug message
+24/02/2024 01:59:21 PM:INFO:choice processed 2
+24/02/2024 01:59:21 PM:INFO:maleria status checking.........
+24/02/2024 01:59:22 PM:INFO:choice processed 34
+24/02/2024 01:59:22 PM:INFO:invalid input . 
+24/02/2024 01:59:24 PM:ERROR:invalid literal for int() with base 10: 'yy'
+Traceback (most recent call last):
+  File "C:\Users\Dell\PycharmProjects\loggigng\logger.py", line 27, in <module>
+    ch =int(input("do you want to continue : y|n"))
+ValueError: invalid literal for int() with base 10: 'yy'
+24/02/2024 01:59:25 PM:INFO:choice processed 3
+24/02/2024 01:59:25 PM:INFO:cancer status checking..............
+24/02/2024 01:59:27 PM:INFO:choice processed 55
+24/02/2024 01:59:27 PM:INFO:invalid input . 
+24/02/2024 02:00:04 PM:root:CRITICAL:critical issue
+24/02/2024 02:00:04 PM:root:ERROR:error issue
+24/02/2024 02:00:04 PM:root:WARNING:warning issue
+24/02/2024 02:00:04 PM:root:INFO:information issue
+24/02/2024 02:00:04 PM:root:DEBUG:debug issue
+24/02/2024 02:00:35 PM:log2:CRITICAL:critical issue
+24/02/2024 02:00:35 PM:log2:ERROR:error issue
+24/02/2024 02:00:35 PM:log2:WARNING:warning issue
+24/02/2024 02:00:35 PM:log2:INFO:information issue
+24/02/2024 02:00:35 PM:log2:DEBUG:debug issue
+24/02/2024 02:01:36 PM:CRITICAL:critical message
+24/02/2024 02:01:36 PM:ERROR:error message
+24/02/2024 02:01:36 PM:WARNING:warning message
+24/02/2024 02:01:36 PM:INFO:information message
+24/02/2024 02:01:36 PM:DEBUG:debug message
+24/02/2024 02:01:39 PM:INFO:choice processed 3
+24/02/2024 02:01:39 PM:INFO:cancer status checking..............
+24/02/2024 02:01:39 PM:INFO:choice processed 2
+24/02/2024 02:01:39 PM:INFO:maleria status checking.........
+24/02/2024 02:01:57 PM:logger1CRITICAL:critical message
+24/02/2024 02:01:57 PM:logger1ERROR:error message
+24/02/2024 02:01:57 PM:logger1WARNING:warning message
+24/02/2024 02:01:57 PM:logger1INFO:information message
+24/02/2024 02:01:57 PM:logger1DEBUG:debug message
+24/02/2024 02:01:59 PM:rootINFO:choice processed 2
+24/02/2024 02:01:59 PM:rootINFO:maleria status checking.........
+24/02/2024 02:02:00 PM:rootINFO:choice processed 3
+24/02/2024 02:02:00 PM:rootINFO:cancer status checking..............
+24/02/2024 02:02:01 PM:rootINFO:choice processed 55
+24/02/2024 02:02:01 PM:rootINFO:invalid input . 
+24/02/2024 02:02:05 PM:rootERROR:invalid literal for int() with base 10: '55.6'
+Traceback (most recent call last):
+  File "C:\Users\Dell\PycharmProjects\loggigng\logger.py", line 28, in <module>
+    ch =int(input("do you want to continue : y|n"))
+ValueError: invalid literal for int() with base 10: '55.6'

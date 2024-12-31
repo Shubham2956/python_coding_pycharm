@@ -1,0 +1,5 @@
+04/07/2024  04/38/15 ,root :CRITICAL:critical message
+04/07/2024  04/38/15 ,root :ERROR:error message
+04/07/2024  04/38/15 ,root :WARNING:warning message
+04/07/2024  04/38/15 ,root :INFO:info message
+04/07/2024  04/38/15 ,root :DEBUG:debug message

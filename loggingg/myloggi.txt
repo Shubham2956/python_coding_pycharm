@@ -1,0 +1,71 @@
+04/07/2024  04/43/23 ,root :CRITICAL:critical message
+04/07/2024  04/43/23 ,root :ERROR:error message
+04/07/2024  04/43/23 ,root :WARNING:warning message
+04/07/2024  04/43/23 ,root :INFO:info message
+04/07/2024  04/43/23 ,root :DEBUG:debug message
+04/07/2024  04/43/41 ,root :CRITICAL:critical message
+04/07/2024  04/43/41 ,root :ERROR:error message
+04/07/2024  04/43/41 ,root :WARNING:warning message
+04/07/2024  04/43/41 ,root :INFO:info message
+04/07/2024  04/43/41 ,root :DEBUG:debug message
+04/07/2024  04/43/43 ,root :CRITICAL:critical message
+04/07/2024  04/43/43 ,root :ERROR:error message
+04/07/2024  04/43/43 ,root :WARNING:warning message
+04/07/2024  04/43/43 ,root :INFO:info message
+04/07/2024  04/43/43 ,root :DEBUG:debug message
+04/07/2024  04/43/44 ,root :CRITICAL:critical message
+04/07/2024  04/43/44 ,root :ERROR:error message
+04/07/2024  04/43/44 ,root :WARNING:warning message
+04/07/2024  04/43/44 ,root :INFO:info message
+04/07/2024  04/43/44 ,root :DEBUG:debug message
+04/07/2024  04/43/55 ,root :CRITICAL:critical message
+04/07/2024  04/43/55 ,root :ERROR:error message
+04/07/2024  04/43/55 ,root :WARNING:warning message
+04/07/2024  04/43/55 ,root :INFO:info message
+04/07/2024  04/43/55 ,root :DEBUG:debug message
+04/07/2024  04/43/59 ,root :CRITICAL:critical message
+04/07/2024  04/43/59 ,root :ERROR:error message
+04/07/2024  04/43/59 ,root :WARNING:warning message
+04/07/2024  04/43/59 ,root :INFO:info message
+04/07/2024  04/43/59 ,root :DEBUG:debug message
+04/07/Y 04:44:07 PM:root:INFO:age status checking....
+04/07/Y 04:44:07 PM:root:INFO:covid status checking....
+04/07/Y 04:44:08 PM:root:INFO:vaccination status checking....
+04/07/Y 04:47:33 PM:LOGGI.py:INFO:age status checking....
+04/07/Y 04:47:34 PM:LOGGI.py:INFO:covid status checking....
+04/07/Y 04:47:35 PM:LOGGI.py:INFO:vaccination status checking....
+04/07/Y 04:47:40 PM:LOGGI.py:ERROR:please enter correct choice
+04/07/Y 04:47:45 PM:LOGGI.py:ERROR:invalid literal for int() with base 10: '555.5'
+Traceback (most recent call last):
+  File "C:\Users\Dell\PycharmProjects\loggingg\LOGGI.py", line 22, in <module>
+    ch = int(input("do you want to continue [y/n].....:"))
+ValueError: invalid literal for int() with base 10: '555.5'
+04/07/2024  04/48/32 ,root :CRITICAL:critical message
+04/07/2024  04/48/32 ,root :ERROR:error message
+04/07/2024  04/48/32 ,root :WARNING:warning message
+04/07/2024  04/48/32 ,root :INFO:info message
+04/07/2024  04/48/32 ,root :DEBUG:debug message
+04/07/Y 04:53:54 PM:LOGGI.py:INFO:age status checking....
+04/07/Y 04:53:55 PM:LOGGI.py:INFO:covid status checking....
+04/07/Y 04:53:55 PM:LOGGI.py:INFO:vaccination status checking....
+04/07/Y 04:53:56 PM:LOGGI.py:ERROR:please enter correct choice
+04/07/Y 04:53:58 PM:LOGGI.py:ERROR:invalid literal for int() with base 10: 'no'
+Traceback (most recent call last):
+  File "C:\Users\Dell\PycharmProjects\loggingg\LOGGI.py", line 22, in <module>
+    ch = int(input("do you want to continue [y/n].....:"))
+ValueError: invalid literal for int() with base 10: 'no'
+04/07/2024  04/55/35 ,main.py :CRITICAL:critical message
+04/07/2024  04/55/35 ,main.py :ERROR:error message
+04/07/2024  04/55/35 ,main.py :WARNING:warning message
+04/07/2024  04/55/35 ,main.py :INFO:info message
+04/07/2024  04/55/35 ,main.py :DEBUG:debug message
+12/12/2024  12/19/25 ,main.py :CRITICAL:critical message
+12/12/2024  12/19/25 ,main.py :ERROR:error message
+12/12/2024  12/19/25 ,main.py :WARNING:warning message
+12/12/2024  12/19/25 ,main.py :INFO:info message
+12/12/2024  12/19/25 ,main.py :DEBUG:debug message
+12/12/2024  12/30/20 ,main.py :CRITICAL:critical message
+12/12/2024  12/30/20 ,main.py :ERROR:error message
+12/12/2024  12/30/20 ,main.py :WARNING:warning message
+12/12/2024  12/30/20 ,main.py :INFO:info message
+12/12/2024  12/30/20 ,main.py :DEBUG:debug message

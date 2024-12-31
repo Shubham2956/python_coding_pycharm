@@ -1,0 +1,5 @@
+05/07/2024 11:23:52 AM :root :CRITICAL:this is critical message
+05/07/2024 11:23:52 AM :root :ERROR:this is error message
+05/07/2024 11:23:52 AM :root :WARNING:this is warning message
+05/07/2024 11:23:52 AM :root :INFO:this is information message
+05/07/2024 11:23:52 AM :root :DEBUG:this is debug message

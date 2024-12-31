@@ -1,0 +1,7 @@
+30:07:2024 06:39:36 PM,CRITICAL,critical message
+30:07:2024 06:40:32 PM,CRITICAL,critical message
+30:07:2024 06:41:27 PM,CRITICAL,critical message
+30:07:2024 06:41:48 PM,CRITICAL,critical message
+30:07:2024 06:41:48 PM,INFO,newlog.py
+newlog.py,30:07:2024 06:47:52 PM,CRITICAL,critical message
+newlog.py,30:07:2024 06:47:52 PM,INFO,newlog.py

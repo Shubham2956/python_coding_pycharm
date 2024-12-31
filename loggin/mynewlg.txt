@@ -1,0 +1,5 @@
+12/12/2024 12:32:01 PM,logprac.py,CRITICAL,critical message
+12/12/2024 12:32:01 PM,logprac.py,ERROR,error message
+12/12/2024 12:32:01 PM,logprac.py,WARNING,warning message
+12/12/2024 12:32:01 PM,logprac.py,INFO,information message
+12/12/2024 12:32:01 PM,logprac.py,DEBUG,debug message

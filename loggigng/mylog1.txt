@@ -1,0 +1,5 @@
+12/12/2024 12:21:08 PM:log2:CRITICAL:critical issue
+12/12/2024 12:21:08 PM:log2:ERROR:error issue
+12/12/2024 12:21:08 PM:log2:WARNING:warning issue
+12/12/2024 12:21:08 PM:log2:INFO:information issue
+12/12/2024 12:21:08 PM:log2:DEBUG:debug issue
